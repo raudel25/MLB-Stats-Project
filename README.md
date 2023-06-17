@@ -1,6 +1,14 @@
-# MLB-Stats-Project
+# 2022 MLB Player Stats – Variante 2
+> Proyecto de Estadística Curso 2023
+### Conjunto de datos
+2022 MLB Player Stats – Pitching
 
-## Proyecto de Estadística Curso 2023
+### Integrantes 
+
+- Juan Carlos Espinosa Delgado C-311
+- Raudel Alejandro Gómez Molina C-311
+- Alex Sierra Alcalá C-311
+- Anthuán Montes de Oca Pons C-311
 
 ### Ejercicio 1
 
